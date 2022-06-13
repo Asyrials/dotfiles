@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anusuga1@gmail.com
+	name = ana ceballos
